@@ -9,3 +9,5 @@ Aside from downloading the Planck data (which can be done using the Planck Legac
 
 planck_mcmc.py is a python script version of the MCMC algorithm, which can be used to run multiple MCMC analyses at the same time.
 The inputs are the 6 starting parameters, number of iterations, and ID number (i.e., a number that will appear in the output filename).
+
+The remaining files are the chains outputted from my runs of the MCMC code.
